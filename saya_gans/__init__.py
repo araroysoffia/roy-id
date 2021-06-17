@@ -120,7 +120,7 @@ class awokawokawok:
 		print(P+" ["+K+"06"+P+"] Crack dari Permintaan Pertemanan")
 		print(P+" ["+K+"07"+P+"] Crack dari Like Postingan")
 		print(P+" ["+H+"08"+P+"] Upgrade ke "+H+"Premium")
-		print(P+" ["+M+"09"+P+"] "+M+"Hapus/Ganti "+p+"Cookie")
+		print(P+" ["+M+"09"+P+"] "+M+"Hapus/Ganti "+P+"Cookie")
 		print(P+" ["+M+"00"+P+"] "+M+"Keluar")
 		print(52*'\x1b[1;97m═')
 		
