@@ -5,7 +5,7 @@ sayang|bismillah
 """.strip().split("|")
 ngntd=((())>(()))+((())>(()))
 def awok(ngentod):
-	return [ngentod,ngentod+"123",ngentod+"12345"]
+	return [ngentod+"123",ngentod+"12345"]
 def pw_list(ngentot):
 	if len(ngentot)==2:
 		romi=ngentot[1].split(" ")
